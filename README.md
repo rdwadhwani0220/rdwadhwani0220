@@ -1,4 +1,4 @@
-- 👋 Hi, I’m rdwadhwani
+- 👋 Hi, I’m rwadhwani
 - 👀 I’m interested in fire behaviour modelling, neural network application
 - 🌱 I’m currently learning MATLAB, Python, Fire Dynamics Simulator
 - 💞️ I’m looking to collaborate on fire science
